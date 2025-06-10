@@ -1,4 +1,4 @@
-# [Slash](https://github.com/deadprogramers/SLASH_OSINT)
+# [Slash](https://github.com/iescly/SLASH_OSINT)
 
 Slash is **Automated Osint Tool** that allows you to **OSINT** people by their username.
 
@@ -30,7 +30,7 @@ Slash is **Automated Osint Tool** that allows you to **OSINT** people by their u
 ## Installation
 
 ```
-git clone https://github.com/deadprogramers/SLASH_OSINT
+git clone https://github.com/iescly/SLASH_OSINT
 cd SLASH-OSINT
 pip install -r requirements.txt
 python slash.py help
@@ -43,21 +43,21 @@ python slash.py help
 
 * Example : 
 ```
-python slash.py deadprogramers
+python slash.py iescly
 ```
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/deadprogramers/SLASH-OSINT/images/1.png">
+  <img src="https://raw.githubusercontent.com/iescly/SLASH-OSINT/images/1.png">
 </h1>
 <h1 align="center">
-  <img src="https://github.com/deadprogramers/SLASH-OSINT/images/2.png?raw=true">
+  <img src="https://github.com/iescly/SLASH-OSINT/images/2.png?raw=true">
 </h1>
 
 ### Credits
 Links of social.json : [sherlock-project](https://github.com/sherlock-project/sherlock/)
 
 
-Instagram:- https://instagram.com/hypercrackers
-Server  : https://t.me/Bunnybinccc
+Instagram:- https://instagram.com/s8ul.jonathan
+Server  : https://t.me/iescly
 
 ![](https://visitor-badge.glitch.me/badge?page_id=thesaderror.slash)
 # SLASH_OSINT
